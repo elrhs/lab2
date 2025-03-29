@@ -1,2 +1,1 @@
 # mynewrepo
-Hello_World
